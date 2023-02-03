@@ -14,6 +14,8 @@ npm install
 npm test
 ```
 
+Report can be found in file named test-report.html
+
 ### Please Node: IF the tests are failing, then it  might be 503 due to load on application or 429 error due to max requests reached
 
 ### Suggestions
