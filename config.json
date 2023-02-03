@@ -1,0 +1,4 @@
+{
+    "BaseURL":"https://helloacm.com",
+    "UnixTimestampConverterEndpoint":"/api/unix-timestamp-converter/?"
+}

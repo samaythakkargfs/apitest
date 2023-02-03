@@ -1,0 +1,16 @@
+{
+  "name": "timestamptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest":"^29.4.1",
+    "supertest":"^6.3.3",
+    "jest-html-reporter":"^3.7.0"
+  }
+}
